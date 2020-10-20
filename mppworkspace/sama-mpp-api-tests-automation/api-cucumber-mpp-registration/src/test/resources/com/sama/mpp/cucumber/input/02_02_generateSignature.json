@@ -1,0 +1,20 @@
+{
+	"participantCode": "SANCBK",
+	
+	"proxy": {
+		"type": "EMAIL",
+		"value": "SANCBKdummy121211test103@rssting.com"
+	},
+	"displayName": "SANCBK Test",
+	"account": {
+		"type": "BANKAC",
+		"value": "SANCBK123456689",
+		"name": "Saving"
+	},
+	"accountHolder": {
+		"person": {
+			"firstName": "FirstTest",
+			"lastName": "LastTest"
+		}
+	}
+}

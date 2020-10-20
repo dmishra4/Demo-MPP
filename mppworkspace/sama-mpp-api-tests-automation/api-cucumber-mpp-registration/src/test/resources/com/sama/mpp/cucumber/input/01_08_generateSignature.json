@@ -1,0 +1,20 @@
+{
+	"participantCode": "SANCBK",
+	
+	"proxy": {
+		"type": "BILLERID",
+		"value": "123456789"
+	},
+	"displayName": "SANCBK Test",
+	"account": {
+		"type": "BANKAC",
+		"value": "SANCBK123456589",
+		"name": "Saving"
+	},
+	"accountHolder": {
+		"person": {
+			"firstName": "FirstTest",
+			"lastName": "LastTest"
+		}
+	}
+}

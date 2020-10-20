@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 ./src/test/resources/com/sama/mpp/cucumber/input/settings-1.0.0.xsd">
+		<!-- Path to the local repository maven will use to store artifacts (default is ${user.home}/.m2/repository) -->
+		<localRepository>C:\SAMA-MPP\mpprepository</localRepository>
+		
+        <mirrors>
+            <!--    <mirror>
+                       <id>nexus</id>
+                       <mirrorOf>*</mirrorOf>
+                       <url>http://mopyz6160143.pssc.mop.fr.ibm.com:9060/nexus/content/groups/restricted/</url>
+               </mirror> -->
+        </mirrors>
+        
+       <!--   
+	   <profiles>
+            <profile>
+                <id>wps-env-deployment</id>
+                <activation>
+                    <activeByDefault>true</activeByDefault>
+                </activation>
+              <properties>
+                    <wps.java.home>${WAS_HOME}\java</wps.java.home>
+                    <wps.xmlaccess>${PORTAL_HOME}\bin\xmlaccess.bat</wps.xmlaccess>
+                    <wps.installableApp>${WP_PROFILE}\installableApps\${project.artifactId}-${project.version}.war</wps.installableApp>
+                    <portal.admin.config.url>[[http:~~/~~/localhost:10039/wps/config>>url:http://localhost:10039/wps/config]]</portal.admin.config.url>
+                    <portal.admin.username>admin</portal.admin.username>
+                    <portal.admin.password>admin</portal.admin.password>
+                </properties>
+				
+            </profile>
+        </profiles>
+		-->
+</settings>

@@ -1,0 +1,9 @@
+{
+   "grant_type":"password",
+   "username":"dev_saalbi_apiusr",
+   "password":"Welcome@123",
+   "client_id":"02a18293-3e8b-4b90-9456-4cb291734386",
+   "client_secret":"W6pR1aA0gX4aM2gC4aT5yU6xI8pV7nL3aM1pU8aL7oQ3cN7uC4",
+   "scope":"ips"
+
+}

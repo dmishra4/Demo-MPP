@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 31 13:07:27 IST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1590910647640
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.masterthought\:cucumber-reporting\:pom\:4.6.0 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

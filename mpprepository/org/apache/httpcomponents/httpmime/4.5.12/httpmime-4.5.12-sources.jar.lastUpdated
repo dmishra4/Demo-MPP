@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 09 07:16:21 IST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1599615981721
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.httpcomponents\:httpmime\:jar\:sources\:4.5.12 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

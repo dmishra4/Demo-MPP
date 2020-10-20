@@ -1,0 +1,20 @@
+{
+	"participantCode": "SABMUS",
+	
+	"proxy": {
+		"type": "EMAIL",
+		"value": "sambusdummy121211test11@rssting.com"
+	},
+	"displayName": "SAMBUS Test",
+	"account": {
+		"type": "BANKAC",
+		"value": "SABMUS123456789",
+		"name": "Muscat Bank"
+	},
+	"accountHolder": {
+		"person": {
+			"firstName": "FirstTest",
+			"lastName": "LastTest"
+		}
+	}
+}

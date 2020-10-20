@@ -1,0 +1,24 @@
+{
+  "participantCode": "SANCBK",
+ 
+  "proxy": {
+    "type": "MSISDN",
+    "value": "100005745754"
+  },
+  "displayName": "01_02_Test1",
+  "account": {
+    "type": "BANKAC",
+    "value": "SANCBK12345678901234",
+    "name": "Saving"
+  },
+  "accountHolder": {
+    "business": {
+      "name": "Saudi Industries Pvt. Ltd",
+      "registeredDate": "2019-02-03"
+    },
+"person": {
+			"firstName": "FirstTest",
+			"lastName": "LastTest"
+		}
+	}
+}
