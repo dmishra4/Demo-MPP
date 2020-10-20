@@ -1,4 +1,4 @@
-# SAMA-MPP
+# Demo-MPP
 API automation details.
 API Automation
 Selenium
