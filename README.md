@@ -4,3 +4,4 @@ API Automation
 Selenium
 Maven
 Cucumber
+Rest Assured
